@@ -1,49 +1,39 @@
-### 👋 Hi, I’m **@AmirXplooit**
-I’m a **Cybersecurity Enthusiast** with a focus on **zero-day vulnerabilities**, **exploit development**, and **cybersecurity research**. 💻🕵️‍♂️
+# 👋 Hi, I'm AmirXplooit!
+
+## 🛡️ Cybersecurity Enthusiast | Ethical Hacker
+
+Welcome to my GitHub profile! I am passionate about cybersecurity, with a focus on the following areas:
+
+- **Penetration Testing** ⚔️
+- **Network & System Security** 🔒
+- **Malware Analysis** 🕵️‍♂️
+- **Application Security** 🛠️
+- **Ethical Hacking & Vulnerability Discovery** 🐛
 
 ---
 
-### 🔍 **Interests**
-- **Zero-Day Vulnerabilities**
-- **Exploit Development**
-- **Malware Analysis**
-- **Network Penetration Testing**
-- **Bug Bounty Programs**
-- **CTF Challenges**
+## 🛠️ Skills & Tools
+
+- **Programming Languages**: Python, Bash, C/C++, JavaScript
+- **Security Tools**: Metasploit, Nmap, Wireshark, Burp Suite, John the Ripper
+- **Operating Systems**: Kali Linux, Windows, macOS
+- **Other Skills**: Computer Networks, Cryptography, Penetration Testing, Log Analysis
 
 ---
 
-### 🌱 **Currently Learning**
-- **Advanced Exploit Techniques**
-- **Reverse Engineering**
-- **Network Penetration Testing**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirXplooit&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirXplooit&layout=compact&theme=dark&hide_border=true&langs_count=6)
 
 ---
 
-### 💞️ **Looking to Collaborate On**
-- **Security Research**
-- **Bug Bounty Programs**
-- **CTF Challenges**
+## 📫 How to Reach Me
+
+If you'd like to get in touch or collaborate, feel free to reach out via:
+
+- **Email**: 📧 [kasraonecom@gmail.com](mailto:kasraonecom@gmail.com)
+- **GitHub**: [@AmirXplooit](https://github.com/AmirXplooit)
 
 ---
 
-### 📫 **How to Reach Me**
-- 📧 **kasraonecom@gmail.com**
-- 🐦 **Twitter**: [@AmirXplooit](https://twitter.com/AmirXplooit)
-
----
-
-### ⚡ **Fun Fact**
-I once found a **zero-day** vulnerability in a **popular CMS** system that was undetected by anyone before me! 🔥
-
----
-
-#### 📂 **Repositories & Projects**
-- [My Cybersecurity Projects](https://github.com/AmirXplooit)  
-- [Contributing to Open-Source Security Tools](https://github.com/AmirXplooit)
-
----
-
-#### 📜 **Proud Moments**  
-- 🎯 **Pwn2Own 2024**: Identified **critical exploit** in **browser engines**
-- 💻 **Top 10 Contributor** in **Bug Bounty Programs**
+**Built with ❤️ by AmirXplooit**
