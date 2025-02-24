@@ -1,7 +1,18 @@
 # 👋 Hi, I'm AmirXplooit!
 
 ## 🛡️ Cybersecurity Enthusiast | Ethical Hacker
-
+            🔒🛡️
+     +-----------------+
+     |  CYBERSECURITY  |
+     |    EXPERT       |
+     +-----------------+
+          /  \
+         /    \
+        /______\
+        |  🖥️  |
+        |__👤__|
+        
+       AmirXplooit
 Welcome to my GitHub profile! I am passionate about cybersecurity, with a focus on the following areas:
 
 - **Penetration Testing** ⚔️
